@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42351527.css",
+    "main.js": "./static/js/main.bd7cbe85.js",
+    "static/js/787.7da95b79.chunk.js": "./static/js/787.7da95b79.chunk.js",
+    "static/media/background-journey5.jpg": "./static/media/background-journey5.fc20da4845b23c75918c.jpg",
+    "static/media/ben-griffiths-4wxWBy8Jo1I-unsplash.jpg": "./static/media/ben-griffiths-4wxWBy8Jo1I-unsplash.365a2475a9d7e7c72930.jpg",
+    "static/media/souvik-banerjee--WPrNEM_6dg-unsplash.jpg": "./static/media/souvik-banerjee--WPrNEM_6dg-unsplash.6da8883e6f9f07415cfd.jpg",
+    "static/media/background-journeyy.jpg": "./static/media/background-journeyy.3233ce1119e6a129bbbf.jpg",
+    "static/media/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg": "./static/media/shahadat-rahman-BfrQnKBulYQ-unsplash.1b79687dc00b3b3c008f.jpg",
+    "static/media/JM-logos_transparent.png": "./static/media/JM-logos_transparent.c8d7997d856904ced70e.png",
+    "index.html": "./index.html",
+    "main.42351527.css.map": "./static/css/main.42351527.css.map",
+    "main.bd7cbe85.js.map": "./static/js/main.bd7cbe85.js.map",
+    "787.7da95b79.chunk.js.map": "./static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42351527.css",
+    "static/js/main.bd7cbe85.js"
+  ]
+}
